@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441318676395",
+    "project_id": "signal-chat-app-901ef",
+    "storage_bucket": "signal-chat-app-901ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441318676395:android:fd1ba2b5944321b6e3e4ee",
+        "android_client_info": {
+          "package_name": "com.signalchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441318676395-4v8p8qlqc681sod7ols8urh7v0ju21tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signalchatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "441318676395-b3hralfj909ram8ho63cim5jfjapluck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcX63o3LBNnCPVgJD96JS2FBloGpWG_Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441318676395-b3hralfj909ram8ho63cim5jfjapluck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
